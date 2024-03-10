@@ -13,3 +13,4 @@
 
 
 ## Блок схема решения задачи
+![Блок-схема решения задачи](https://github.com/Yuriy-Zhitkov/GB_HW_01/blob/main/HW%20Main.jpg)
